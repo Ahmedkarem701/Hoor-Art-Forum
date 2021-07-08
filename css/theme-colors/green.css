@@ -1,0 +1,90 @@
+
+a:hover {
+	color: gold;
+}
+
+.header .logo {
+	background: gold;
+}
+
+.header .top-menu ul li.active a {
+	color: gold;
+}
+
+.header .top-menu ul li.active a .icon {
+	color: gold;
+}
+
+.header .social a:hover .icon {
+	color: gold;
+}
+
+.card-inner .card-wrap .title span {
+	color: gold;
+}
+
+.content.inner-top .text p strong {
+	color: gold;
+}
+
+.content.inner-top .circle-bts a:hover .icon {
+	color: gold;
+}
+
+.content.inner-top .circle-bts a:hover span {
+	color: gold;
+}
+
+.service-items .service-item .icon {
+	color: gold;
+}
+
+.pricing-items .pricing-item .icon {
+	color: gold;
+}
+
+.pricing-items .pricing-item .feature-list ul li strong {
+	background: gold;
+}
+
+.pricing-items .pricing-item .lnks .lnk span {
+	color: gold;
+}
+
+.fuct-items .fuct-item .icon {
+	color: gold;
+}
+
+.resume-items .resume-item.active .date {
+	color: gold;
+}
+
+.skills-list ul li .progress .percentage {
+	background: gold;
+}
+
+.content.works .filter-menu .f_btn.active {
+	color: gold;
+}
+
+.box-item .image .info:before,
+.box-item .image .info:after {
+	background: gold;
+}
+
+.contacts-items .contacts-item .icon {
+	color: gold;
+}
+
+.post-box .blog-content blockquote {
+	border-left-color: gold;
+}
+
+.post-box .blog-content ul.list-style li:before {
+	background: gold;
+}
+
+.post-box .post-comments li .comment-info .name h6 {
+	color: gold;
+}
+
